@@ -1,0 +1,9 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "c6ed8acc-cfa5-484d-a74c-eb4d3fe8fe29"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
